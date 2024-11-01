@@ -14,15 +14,18 @@
 	<p><strong>Cat Parent 🐱</strong>: I have two cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
 </p>
 
-<!-- GitHub Stats and Top Languages Section -->
-<div align="left" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="45%" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="45%" style="display: inline-block;"/>
-</div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; margin-top: 20px;">
+  <!-- Left Column (GitHub Stats and Top Languages) -->
+  <div style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="100%" style="display: block; margin-bottom: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="100%" style="display: block;"/>
+  </div>
 
-<p align="right">
-	<img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
-</p>
+  <!-- Right Column (GIF) -->
+  <div align="right" style="width: 45%;">
+    <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
+  </div>
+</div>
 
 
 
