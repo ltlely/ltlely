@@ -1,5 +1,8 @@
 
-![19c9e3184c7783ab99fd11af529711c5](https://github.com/user-attachments/assets/973f80de-ab01-4f73-a21d-7035499648a5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/973f80de-ab01-4f73-a21d-7035499648a5" alt="Image" width="100%"/>
+</p>
+
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub!&color=FF6EC7&size=30)](https://git.io/typing-svg)
 
