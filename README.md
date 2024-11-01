@@ -15,8 +15,11 @@
 	</p>
 	
 	<p align="right">
-		<a href="https://github.com/ltlely"><img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/></a>
+	  <a href="https://github.com/ltlely">
+	    <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
+	  </a>
 	</p>
+
 </p> 
 
 
