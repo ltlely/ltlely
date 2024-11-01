@@ -16,8 +16,8 @@
 
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="100%" style="margin-bottom: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats"  style="margin-bottom: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" />
   </p>
 
   <!-- Right Column with GIF -->
