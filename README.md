@@ -15,15 +15,17 @@
 </p>
 
 
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats"  style="margin-bottom: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats"  style="margin-bottom: 10px;"/>
+</p>
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-  <!-- Right Column with GIF -->
-  <p align="right">
-    <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
-  </p>
+<!-- Right Column with GIF -->
+<p align="right">
+	<img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
+</p>
 
 
 
