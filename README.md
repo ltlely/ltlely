@@ -1,15 +1,9 @@
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/973f80de-ab01-4f73-a21d-7035499648a5" alt="Image" width="100%"/>
-</p>
-
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub!&color=FF6EC7&size=30)](https://git.io/typing-svg)
 
-<p align="right"
-  <a href="https://github.com/ltlely">
-    <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px; float: right; margin-left: 20px;"/>
-  </a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/973f80de-ab01-4f73-a21d-7035499648a5" alt="Image" width="100%"/>
 </p>
 
 <h2 style="color: #FF6EC7;">ABOUT ME</h2>
