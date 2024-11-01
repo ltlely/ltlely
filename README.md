@@ -11,7 +11,7 @@
 <p><strong style="color: #FF6EC7;">STEM Advocate 💻</strong>: Winning Verizon’s STEM Next award was one of my proudest moments. I love giving back to the community and supporting initiatives that encourage more people to dive into STEM.</p>
 <p><strong style="color: #FF6EC7;">Avid Learner 📚</strong>: I love learning new things just for fun! Whether it’s a random fact about history or a new tech skill, I'm always curious.</p>
 <p><strong style="color: #FF6EC7;">Anime Lover 📺</strong>: Anime is my go-to for unwinding! I love immersing myself in different worlds and characters—it’s a great way to relax after a day of coding.</p>
-<p><strong style="color: #FF6EC7;">Cat Parent 🐱</strong>: I have two cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
+<p><strong style="color: #FF6EC7;">Cat Parent 🐱</strong>: I have three cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
 
 
 <p align="center">
