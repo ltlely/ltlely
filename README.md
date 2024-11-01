@@ -1,6 +1,6 @@
-## ![Typing Effect](./typingEffect.svg)
+## ![Typing Effect](https://raw.githubusercontent.com/ltlely/ltlely/main/typingEffect.svg)
 
-![Typing GIF](./typingGif.gif)
+![Typing GIF](https://raw.githubusercontent.com/ltlely/ltlely/main/typingGif.gif)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical)
 
