@@ -4,7 +4,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7&size=30)](https://git.io/typing-svg)
 
-<div style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start;">
+<p style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start;">
   <!-- Left Aligned Text Content -->
   <p align="left" style="width: 60%; padding-right: 20px; word-wrap: break-word; overflow-wrap: break-word;">
     <h2 style="color: #ff6ec7;">ABOUT ME</h2>
@@ -17,7 +17,7 @@
 	<p align="right" style="width: 40%; text-align: right;">
 		<img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
  	</p>
-</div>
+</p>
 
 
 
