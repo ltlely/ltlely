@@ -16,16 +16,17 @@
 
 <div style="display: flex; align-items: flex-start; width: 100%; margin-top: 20px;">
   <!-- Left Column with GitHub Stats and Top Languages Stacked Vertically -->
-  <div style="width: 50%; display: flex; flex-direction: column;">
+  <div style="width: 50%; display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="100%" style="margin-bottom: 10px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
   </div>
 
   <!-- Right Column with GIF -->
-  <div style="width: 50%; text-align: right; padding-left: 20px;">
+  <div style="text-align: right; margin-left: auto; padding-left: 20px;">
     <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
   </div>
 </div>
+
 
 
 
