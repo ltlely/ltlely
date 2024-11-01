@@ -1,7 +1,3 @@
-
-<img src="https://github.com/user-attachments/assets/00991b5f-53d5-4619-b048-00bb144b6b22" alt="Image" style="width: 100%; height: auto;"/>
-
-
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub!&color=FF6EC7&size=30)](https://git.io/typing-svg)
 
 <p align="right"
@@ -20,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ltlely">
-    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="420px" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="450px" height="200px"/>
   </a>
   <a href="https://github.com/ltlely">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="420px" height="200px"/>
