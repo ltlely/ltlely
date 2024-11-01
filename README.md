@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
-<div style="display: flex; background-color: #1e1e1e; color: #c9d1d9; border-radius: 10px; padding: 20px;">
+<div style="display: flex; align-items: flex-start; background-color: #1e1e1e; color: #c9d1d9; border-radius: 10px; padding: 20px;">
   <!-- About Me Section Aligned to the Left -->
   <div style="flex: 1; text-align: left; padding-right: 20px;">
     <h2 style="color: #ff6ec7;">ABOUT ME</h2>
