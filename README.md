@@ -1,9 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
-<!-- About Me Section with GIF on the Right -->
-<div>
+<div style="width: 100%; display: flex; align-items: flex-start;">
   <!-- Left Aligned Text Content -->
-  <div align="left" style="display: inline-block; width: 58%; vertical-align: top;">
+  <div align="left" style="width: 60%; padding-right: 20px;">
     <h2 style="color: #ff6ec7;">ABOUT ME</h2>
     <p><strong>K-Pop Fan 🎶</strong>: K-pop is my go-to soundtrack while working on projects or studying. It keeps me motivated and energized!</p>
     <p><strong>STEM Advocate 💻</strong>: Winning Verizon’s STEM Next award was one of my proudest moments. I love giving back to the community and supporting initiatives that encourage more people to dive into STEM.</p>
@@ -13,7 +12,7 @@
   </div>
 
   <!-- Right Aligned GIF -->
-  <div align="right" style="display: inline-block; width: 40%;">
+  <div align="right" style="width: 40%;">
     <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
   </div>
 </div>
