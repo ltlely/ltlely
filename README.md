@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/00991b5f-53d5-4619-b048-00bb144b6b22" alt="Image" style="width: 100%; height: auto;"/>
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7&size=30)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub!&color=FF6EC7&size=30)](https://git.io/typing-svg)
 
 
 <p align="left">
@@ -14,18 +14,17 @@
 	<p><strong>Cat Parent 🐱</strong>: I have two cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
 </p>
 
-<div style="display: flex; align-items: flex-start; width: 100%; margin-top: 20px;">
-  <!-- Left Column with GitHub Stats and Top Languages Stacked Vertically -->
-  <div style="width: 50%; display: flex; flex-direction: column; align-items: flex-start;">
+
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="100%" style="margin-bottom: 10px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="100%"/>
-  </div>
+  </p>
 
   <!-- Right Column with GIF -->
-  <div style="text-align: right; margin-left: auto; padding-left: 20px;">
+  <p align="right">
     <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
-  </div>
-</div>
+  </p>
+
 
 
 
