@@ -1,8 +1,8 @@
 
-<img src="https://github.com/user-attachments/assets/00991b5f-53d5-4619-b048-00bb144b6b22" alt="Image" style="width: 100%; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/00991b5f-53d5-4619-b048-00bb144b6b22" alt="Image" style="width: 50%; height: auto;"/>
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7&size=30)](https://git.io/typing-svg)
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start;">
   <!-- Left Aligned Text Content -->
