@@ -1,7 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=F4C2C2&size=30&pause=1000&center=true&vCenter=true&width=435)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300"/>
+  <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="400"/>
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical)
