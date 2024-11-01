@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-![54b5b572a814ce721e1b01adabed5c84](https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1)
+<img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="100"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical)
 
