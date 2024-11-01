@@ -1,10 +1,20 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="400"/>
+  <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="320"/>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 
 ## ABOUT ME
 
@@ -18,4 +28,4 @@ Anime Lover 📺: Anime is my go-to for unwinding! I love immersing myself in di
 
 Cat Parent 🐱: I have two cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.
 
-![LyLy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical)
+
