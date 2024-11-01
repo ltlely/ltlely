@@ -10,11 +10,6 @@
     <p><strong>Anime Lover 📺</strong>: Anime is my go-to for unwinding! I love immersing myself in different worlds and characters—it’s a great way to relax after a day of coding.</p>
     <p><strong>Cat Parent 🐱</strong>: I have two cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
   </div>
-
-  <!-- Right Aligned GIF -->
-  <div align="right" style="width: 40%; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
-  </div>
 </div>
 
 
@@ -23,6 +18,9 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="45%" style="display: inline-block;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="45%" style="display: inline-block;"/>
+</div>
+<div align="right" style="width: 40%; text-align: right;">
+  <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="300" style="border-radius: 10px;"/>
 </div>
 
 
