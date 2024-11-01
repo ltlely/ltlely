@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
 <div style="display: flex; background-color: #1e1e1e; color: #c9d1d9; border-radius: 10px; padding: 20px;">
-  <!-- About Me Section on the Left -->
-  <div style="flex: 1; padding-right: 20px;">
+  <!-- About Me Section Aligned to the Left -->
+  <div style="flex: 1; text-align: left; padding-right: 20px;">
     <h2 style="color: #ff6ec7;">ABOUT ME</h2>
     <p><strong>K-Pop Fan 🎶</strong>: K-pop is my go-to soundtrack while working on projects or studying. It keeps me motivated and energized!</p>
     <p><strong>STEM Advocate 💻</strong>: Winning Verizon’s STEM Next award was one of my proudest moments. I love giving back to the community and supporting initiatives that encourage more people to dive into STEM.</p>
@@ -11,11 +11,12 @@
     <p><strong>Cat Parent 🐱</strong>: I have two cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
   </div>
 
-  <!-- Typing GIF Section on the Right -->
-  <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+  <!-- Typing GIF Aligned to the Right -->
+  <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: flex-end;">
     <img src="https://github.com/user-attachments/assets/849899ad-8c5d-4ff9-9fe0-bbc1b57c5cb1" alt="Typing GIF" width="320" style="border-radius: 10px;"/>
   </div>
 </div>
+
 
 
 <table border="0" width="100%">
