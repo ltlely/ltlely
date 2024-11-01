@@ -1,3 +1,5 @@
+![54b5b572a814ce721e1b01adabed5c84](https://github.com/user-attachments/assets/7d562bc9-9fa1-491c-a3b0-cc13cd5afc89)
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start;">
