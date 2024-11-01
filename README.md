@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+LyLy;Welcome+to+my+GitHub+Profile!&color=FF6EC7)](https://git.io/typing-svg)
 
-<table style="width: 100%; background-color: #1e1e1e; color: #c9d1d9; border-radius: 10px; padding: 20px;">
+<table style="width: 100%; background-color: #1e1e1e; color: #c9d1d9; border-radius: 10px; padding: 20px;" border="0">
   <tr>
     <td width="60%" valign="top" style="padding-right: 20px;">
       <h2 style="color: #ff6ec7;">ABOUT ME</h2>
@@ -16,9 +16,7 @@
   </tr>
 </table>
 
-
-
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="300"/>
@@ -28,8 +26,3 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
