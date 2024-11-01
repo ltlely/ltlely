@@ -16,9 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/ltlely">
-    <img src="https://github-readme-stats.vercel.app/api?username=ltlely&show_icons=true&theme=radical" alt="LyLy's GitHub Stats" width="420px" height="220px"/>
-  </a>
-  <a href="https://github.com/ltlely">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="420px" height="200px"/>
   </a>
 </p>
