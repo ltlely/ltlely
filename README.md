@@ -13,6 +13,11 @@
 <p><strong style="color: #FF6EC7;">Anime Lover 📺</strong>: Anime is my go-to for unwinding! I love immersing myself in different worlds and characters—it’s a great way to relax after a day of coding.</p>
 <p><strong style="color: #FF6EC7;">Cat Parent 🐱</strong>: I have three cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
 
+<h2 style="color: #FF6EC7;">CONTACT ME</h2>
+<p><strong style="color: #FF6EC7;">Email</strong>: lylytrr.121@gmail.com </p>
+<p><strong style="color: #FF6EC7;">LinkedIn</strong>: <a href="https://www.linkedin.com/in/lylytran/">Click Me</a></p>
+<p><strong style="color: #FF6EC7;">Portfolio</strong>: <a href="https://portfolio-seven-delta-65.vercel.app/">Click Me</a></p>
+
 [![](https://visitcount.itsvg.in/api?id=ltlely&icon=7&color=10)](https://visitcount.itsvg.in)
 
 
