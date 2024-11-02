@@ -13,13 +13,6 @@
 <p><strong style="color: #FF6EC7;">Anime Lover 📺</strong>: Anime is my go-to for unwinding! I love immersing myself in different worlds and characters—it’s a great way to relax after a day of coding.</p>
 <p><strong style="color: #FF6EC7;">Cat Parent 🐱</strong>: I have three cats, and they’re my little coding buddies! They often keep me company when I’m working on projects.</p>
 
-
-<p align="center">
-  <a href="https://github.com/ltlely">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlely&layout=compact&theme=radical" alt="Top Languages" width="420px" height="200px"/>
-  </a>
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=ltlely&icon=7&color=10)](https://visitcount.itsvg.in)
 
 
